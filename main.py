@@ -7,6 +7,9 @@ grupos = {
     "A": [],
     "B": []
 }
+fechasJuego ={
+
+}
 
 menu = ("1.Agregar equipo","2.Crear grupos","3.Ver grupo","4.Salir")
 #Equipo PJ PP PE PG GF GC
